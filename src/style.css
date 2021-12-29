@@ -1,4 +1,9 @@
-body {
-  font-family: "Merriweather", serif;
+:root {
+  --main-font-family: "Merriweather", serif;
+}
+h1,
+h3,
+p {
   text-align: center;
+  font-family: var(--main-font-family);
 }
