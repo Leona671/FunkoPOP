@@ -7,3 +7,15 @@ p {
   text-align: center;
   font-family: var(--main-font-family);
 }
+ul {
+  list-style: none;
+  text-align: center;
+}
+li {
+  display: inline;
+  margin: 0 15px;
+  padding: 5px;
+}
+img {
+  max-height: 450px;
+}
